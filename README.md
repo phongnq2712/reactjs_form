@@ -1,11 +1,11 @@
 # reactjs_form
 
-Deploy:
-Run 2 commands from the terminal:
-npm install
-npm run dev
-
-Description:
+Deploy:<br />
+Run 2 commands from the terminal:<br />
+npm install<br />
+npm run dev<br />
+<br />
+Description:<br />
 Create a simple registration page using any Javascript framework (preferably ReactJS). Feel free to use any validation libraries, http request libraries, CSS libraries or any other library you feel necessary.
 The form should validate full_name, contact_number, email, date_of_birth, password, and confirm_password fields. If the user presses the “submit” button, the form should validate, and the error messages should appear accordingly.
 
